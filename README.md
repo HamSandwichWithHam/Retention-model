@@ -1,6 +1,6 @@
-Histogram Gradient Booosting Classifier model of student retention written using Python, scikit-learn, and Jupyter Notebook.  
+The goal of this project was to predict student retention for first year freshen in order to best direct limited resources in the Student Success Division at Roanoke College.  This project was carried out in collaboration with the Vice President and Associate Vice President of Student Success.  
 
-Model was built using end of 1st term data for first year freshemen.  Data not included (only code included) due to FERPA concerns.
+A histogram gradient bootsing classifier model was built using end of 1st term data for first year freshemen.  Data not included (only code included) due to FERPA concerns.
 
 Original features:
 
